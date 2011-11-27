@@ -192,6 +192,7 @@ class ConflagrationTargetSelector
         }
 };
 
+// 74452
 class spell_saviana_conflagration_init : public SpellScriptLoader
 {
     public:
@@ -229,6 +230,7 @@ class spell_saviana_conflagration_init : public SpellScriptLoader
         }
 };
 
+// 74455
 class spell_saviana_conflagration_throwback : public SpellScriptLoader
 {
     public:
